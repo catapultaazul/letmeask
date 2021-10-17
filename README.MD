@@ -1,5 +1,5 @@
 # LETMEASK 
 
 Projeto Letmeask, criado no NLW Together, da Rocketseat.
-Projeto desenvolvido para aprendizado e prática do framework React, utilizando também TypeScript e SCSS.
+Desenvolvido para aprendizado e prática do framework React, utilizando também TypeScript e SCSS.
 Por fim, toda a responsividade do site foi desenvolvida por mim de maneira autônoma.
